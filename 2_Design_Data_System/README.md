@@ -1,6 +1,5 @@
-**Created time: 2023-02-26**
 
-**Creator: QUANG HUY CHU**
+**Creator: RAVI KUMBAR**
 
 # DATA ARCHITECT NANO DEGREE PROJECT 2: DESIGNING DATA SYSTEM
 
@@ -18,5 +17,5 @@ In this repository I have uploaded all the content of the Project 2 in the Udaci
 3. All the images for each question in the Instruction section:
 
 ## II. Project Data Architecture Overview:
-<img src="https://github.com/CQHofsns/Udacity-Data-Architecture/blob/main/2_Design_Data_System/Data_System_Design.png" width="1000" height="7000">
+<img src="https://github.com/ravi-kumbar-de/DATA-ARCHITECT/blob/main/2_Design_Data_System/Data_System_Design.png" width="1000" height="7000">
 	
