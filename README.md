@@ -1,4 +1,4 @@
-# Udacity Data Architecture Nano Degree
+# Data Architecture Nano Degree
 ## Projects repositories:
 
 ### I. [Project 1: Data Architecture Foundation]()
